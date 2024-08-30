@@ -1,0 +1,16 @@
+{
+  "name": "craftrise-account-creator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Craft Rise Hesap Açma Yazılımı",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^23.2.1"
+  }
+}
